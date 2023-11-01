@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="IMG_3268(20200816-095135).png" alt="img" title="Sunset">  
+
 Hi! I am Yifan Yu, a graduate student who enjoy assembling computer and electronic devices, also the board game :D  
 Currently in pursuit of M.Eng CS degree at [Cornell University](https://www.cornell.edu/) and [Cornell Tech](https://tech.cornell.edu/).  
 
