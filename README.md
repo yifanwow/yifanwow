@@ -21,9 +21,6 @@ Currently in pursuit of M.Eng CS degree at [Cornell University](https://www.corn
 
 I am passionate about software development as well as combining software and hardware with each other. I am also passionate about data security, web services.
 
-Here is my cat Mymi:
-
-
 Know more about me:
 - [LinkedIn](https://www.linkedin.com/in/yifanovo/)
 - [Steam](https://steamcommunity.com/id/yifanovo/)
