@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi! I am Yifan Yu, a graduate student who enjoy assembling computer and electronic devices, also the board game :D, currently in pursuit of M.Eng CS degree at [Cornell University](https://www.cornell.edu/) and [Cornell Tech](https://tech.cornell.edu/). 
+Hi! I am Yifan Yu, a graduate student who enjoy assembling computer and electronic devices, also the board game :D  
+Currently in pursuit of M.Eng CS degree at [Cornell University](https://www.cornell.edu/) and [Cornell Tech](https://tech.cornell.edu/).  
+
 I am passionate about software development as well as combining software and hardware with each other. I am also passionate about data security, web services.
+
+Here is my cat Mymi:
+
 
 Know more about me:
 - [LinkedIn](https://www.linkedin.com/in/yifanovo/)
