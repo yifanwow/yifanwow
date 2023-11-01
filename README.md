@@ -24,3 +24,7 @@ I am passionate about software development as well as combining software and har
 Know more about me:
 - [LinkedIn](https://www.linkedin.com/in/yifanovo/)
 - [Steam](https://steamcommunity.com/id/yifanovo/)
+- [Email](mailto:yy2253@cornell.edu)   
+
+School: yy2253@cornell.edu  
+Personal: yifanowo@gmail.com
