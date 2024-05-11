@@ -26,7 +26,7 @@ I’m also fascinated by the highways of data transmission and the fortresses of
 Drop by my world where creativity meets technology, and let’s build something awesome together!
 
 Know more about me:
-- [Portfolio](http://yifanovo.info)
+- [Portfolio](https://yifanovo.info)
 - [LinkedIn](https://www.linkedin.com/in/yifanovo/)
 - [Steam](https://steamcommunity.com/id/yifanovo/)
 - [Email](mailto:yy2253@cornell.edu)   
