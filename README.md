@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 <img src="sunset.png" alt="img" title="Sunset">  
 
 Hello! I’m Yifan Yu, a recent graduate from Cornell University and Cornell Tech, where I explored the fascinating intersection of software and hardware.   
-  
-For me, the process of creating software, much like painting for artists or composing for musicians, is profoundly important. The passion derived from transforming an idea into reality is irreplaceable and is what I cherish the most.  
 In my personal projects, I focus on building full-stack applications using C#, complemented by JavaScript, most hosted on AWS.  
   
-My dream is bringing the beauty of technology into everyday life.
-
-Drop by my world where creativity meets technology, and let’s build something beautiful together!
+For me, the process of creating software, much like painting for artists or composing for musicians, is profoundly important.   
+The passion derived from transforming an idea into reality is irreplaceable and is what I cherish the most.   
+  
+My dream is bringing the beauty of technology into everyday life.  
+Welcome to my world where creativity meets technology, and let’s build something beautiful together!  
 
 Know more about me:
 - [Portfolio](https://yifanovo.info)
