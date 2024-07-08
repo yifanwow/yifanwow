@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <img src="sunset.png" alt="img" title="Sunset">  
 
-Hello! I’m Yifan Yu, a recent graduate from Cornell University and Cornell Tech, where I explored the fascinating intersection of software and hardware.   
+Hello! I’m Yifan Yu, a recent graduate from [Cornell University](https://www.cornell.edu/) / [Cornell Tech](https://tech.cornell.edu/), where I explored the fascinating intersection of software and hardware.   
 In my personal projects, I focus on building full-stack applications using C#, complemented by JavaScript, most hosted on AWS.  
   
 For me, the process of creating software, much like painting for artists or composing for musicians, is profoundly important.   
