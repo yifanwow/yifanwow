@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <img src="sunset.png" alt="img" title="Sunset">  
 
-Hello! I’m Yifan Yu, My dream is bringing the beauty of technology into everyday life.  
+Hello! I’m Yifan Yu, my dream is bringing the beauty of technology into everyday life.  
 The passion derived from transforming an idea into reality is irreplaceable and is what I cherish the most.   
 
 Know more about me:
-- [Portfolio](https://yifanovo.info)
+- [Portfolio](https://yifanovo.com)
 - [Steam](https://steamcommunity.com/id/yifanovo/)
